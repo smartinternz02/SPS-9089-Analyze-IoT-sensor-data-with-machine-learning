@@ -15,3 +15,6 @@ Authentication Token :- C@HYMwUa++RtCNopDV
 
 Use the credentials to start the ibm iot simulator
 the simulator will sen temperature data to the node red application for analysis and prediction.
+
+link for demonstration video :- 
+https://drive.google.com/file/d/1_Y1CoVTpzO7FqsqYz-yD71Jj1LCwOy9h/view?usp=sharing
