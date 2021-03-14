@@ -1,0 +1,4 @@
+"temp dataset for project" is a csv dataset file
+ containing temperature values and the status column 
+specifies weather the corresponding temperature value is beyond limit or not
+0 is for ok and 1 is for not ok.
