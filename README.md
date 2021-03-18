@@ -23,3 +23,9 @@ Authentication Token :- !zZmCjXQzIoSHFG3gd
 note:- The machine learning model generally consider values between 16 to 50 as normal temperature values.
 values above or below this range are considered as abnormal temperature values.
 
+"temp dataset for project" is a csv dataset file
+ containing temperature values and the status column 
+specifies weather the corresponding temperature value is beyond limit or not
+0 is for ok and 1 is for not ok.
+temperature values between 0 to 16 and beyond 50 are not ok.
+temperature values between 15 and 50 are ok.
